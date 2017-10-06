@@ -25,7 +25,7 @@ SECRET_KEY = '0@*aydbb!a9*9b6swxu7a%tmjr4gg-t&3$#b94r#xp$w7$64qh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sheltered-fjord-90102.herokuapp.com']
+ALLOWED_HOSTS = ['my-ox-game.herokuapp.com']
 
 
 # Application definition
